@@ -1,0 +1,26 @@
+.header-container {
+    width: 1263px;
+    margin: 0 auto;
+}
+li {
+    color: #636060;
+    font-size: 17px;
+    font-family: Helvetica;
+    display: inline-block;
+}
+nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+.geolablogo {
+    vertical-align: middle;
+    margin-right: 676px;
+    width: 33px;
+    height: 42px;
+}
+header {
+    margin-top: 24px;
+}
+.li1 {
+    margin-right: 46px;
+}
