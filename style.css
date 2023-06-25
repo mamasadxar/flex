@@ -24,3 +24,53 @@ header {
 .li1 {
     margin-right: 46px;
 }
+.container {
+    width: 1263px;
+    margin: 0 auto;
+}
+.bgimg {
+    width: 1263px;
+    height: 532px;
+    margin-top: 18px;
+    margin-bottom: 84px;
+}
+h1 {
+    color: #636060;
+    font-size: 17px;
+    font-family: Helvetica;
+    margin-bottom: 9px;
+}
+h2 {
+    color: #010101;
+    font-size: 28px;
+    font-family: Helvetica;
+    margin-bottom: 37px;
+}
+h3 {
+    color: #636060;
+    font-size: 20px;
+    font-family: Helvetica;
+}
+.discover {
+    display: inline-block;
+}
+.flex-container {
+    width: 924px;
+    display: flex;
+}
+h4 {
+    color: #343232;
+    font-size: 19px;
+    font-family: Helvetica;
+}
+h5 {
+    color: #636060;
+    font-size: 18px;
+    font-family: Helvetica;
+}
+.cardimg {
+    margin-bottom: 23px;
+}
+.cardname {
+    margin-bottom: 9px;
+}
