@@ -57,6 +57,9 @@ h3 {
 .flex-container {
     width: 924px;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
 }
 h4 {
     color: #343232;
@@ -73,4 +76,7 @@ h5 {
 }
 .cardname {
     margin-bottom: 9px;
+}
+.cardp {
+    margin-bottom: 56px;
 }
