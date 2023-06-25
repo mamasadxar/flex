@@ -1,5 +1,5 @@
 .header-container {
-    width: 1263px;
+    width: 1684px;
     margin: 0 auto;
 }
 li {
@@ -14,7 +14,7 @@ nav {
 }
 .geolablogo {
     vertical-align: middle;
-    margin-right: 676px;
+    margin-right: 1050px;
     width: 33px;
     height: 42px;
 }
@@ -25,14 +25,14 @@ header {
     margin-right: 46px;
 }
 .container {
-    width: 1263px;
+    width: 1684px;
     margin: 0 auto;
 }
 .bgimg {
-    width: 1263px;
-    height: 532px;
     margin-top: 18px;
     margin-bottom: 84px;
+    width: 1903px;
+    height: 809px;
 }
 h1 {
     color: #636060;
@@ -53,13 +53,17 @@ h3 {
 }
 .discover {
     display: inline-block;
+    margin-left: 100px;
+    position: absolute;
+    z-index: 1;
 }
 .flex-container {
-    width: 924px;
+    width: 1100px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    
+    justify-content: space-around; 
+    position: absolute;
+    margin-left: 600px;
 }
 h4 {
     color: #343232;
